@@ -3,9 +3,9 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.srikanth.demo</groupId>
   <artifactId>Maven_Demo</artifactId>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>Maven_Demo Maven Webapp</name>
+  <name>Maven_Demo Maven App</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
